@@ -1,10 +1,11 @@
 # NLP with Disaster Tweets Competition (Kaggle)
-This project is dedicated to the "Twitter Disaster Detection" competition hosted on Kaggle, focusing on Natural Language Processing (NLP) techniques to detect real-time emergencies from tweets.
+This Natural Language Processing(NLP) project was created to participate in the "Twitter Disaster Detection" competition on Kaggle. Explore Natural Language Processing techniques, data analysis, and model creation to detect real-time emergencies on Twitter.
 
 # Competition Description
-Twitter serves as a crucial communication channel during emergencies, enabling individuals to report incidents in real-time via smartphones. Consequently, there's a growing interest from various agencies, including disaster relief organizations and news agencies, in programmatically monitoring Twitter for emergency situations.
+Twitter has become an important communication channel in times of emergency.
+The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
 
-Link to Competition: Twitter Disaster Detection
+Link to Competition: https://www.kaggle.com/competitions/nlp-getting-started
 
 # Required Libraries
 Ensure the following libraries are installed to execute this project:
