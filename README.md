@@ -1,5 +1,7 @@
 # NLP with Disaster Tweets Competition (Kaggle)
 
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/736x/04/e1/66/04e1665bf49b6d238ae21ea41b59defc.jpg">
+
 This Natural Language Processing(NLP) project was created to participate in the "Twitter Disaster Detection" competition on Kaggle. Explore Natural Language Processing techniques, data analysis, and model creation to detect emergencies on Twitter.
 
 # Competition Description
