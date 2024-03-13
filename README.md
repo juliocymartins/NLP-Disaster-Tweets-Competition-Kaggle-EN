@@ -8,7 +8,7 @@ This Natural Language Processing(NLP) project was created to participate in the 
 Twitter has become an important communication channel in times of emergency.
 The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
 
-Link to Competition: [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started).
+Link to Competition: [NLP with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started).
 
 # Required Libraries
 Ensure the following libraries are installed to execute this project:
